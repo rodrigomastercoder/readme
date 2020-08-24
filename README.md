@@ -15,6 +15,6 @@ This is a read
 
 `
 funtion() {
-  
+  return;
 }
 `
